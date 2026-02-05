@@ -17,7 +17,7 @@ $ Project name: .
 The first step is to decide on which API you will use for this project. We have provided a shortlist of api's that you might find useful but you are not limited to these.
 
 
-- [The Cat API](https://thecatapi.com/) - Cats as a service
+- [The Cat API](https://thecatapi.com/) - Cats as a service 🐱
 - [Giphy API](https://developers.giphy.com/) - Search and upload gifs
 - [DnD 5th Edition](https://www.dnd5eapi.co/) - The classic rpg
 - [PokeApi](https://pokeapi.co/) - Gotta catch em all
