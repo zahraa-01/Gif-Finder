@@ -21,7 +21,7 @@ The first step is to decide on which API you will use for this project. We have 
 - [Giphy API](https://developers.giphy.com/) - Search and upload gifs
 - [DnD 5th Edition](https://www.dnd5eapi.co/) - The classic rpg
 - [PokeApi](https://pokeapi.co/) - Gotta catch em all
-- [TvMaze](https://www.tvmaze.com/api) - Information about TV shows
+- [TvMaze](https://www.tvmaze.com/api) - Information about TV shows 📺
 - [Carbon Intensity](https://api.carbonintensity.org.uk/) - The official Carbon Intensity API developed by the National Grid
 - [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/fdsnws/event/1/) - Earthquakes and stuff
 - [Open Weather Map](https://openweathermap.org/api) - Current and forecast weather across the globe
