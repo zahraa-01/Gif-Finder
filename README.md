@@ -24,7 +24,7 @@ The first step is to decide on which API you will use for this project. We have 
 - [TvMaze](https://www.tvmaze.com/api) - Information about TV shows 📺
 - [Carbon Intensity](https://api.carbonintensity.org.uk/) - The official Carbon Intensity API developed by the National Grid
 - [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/fdsnws/event/1/) - Earthquakes and stuff
-- [Open Weather Map](https://openweathermap.org/api) - Current and forecast weather across the globe
+- [Open Weather Map](https://openweathermap.org/api) - Current and forecast weather across the globe ☔️
 - [TicketMaster](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/) - Events
 - [Google books](https://developers.google.com/books/docs/overview) - Information on Books
 - [NASA](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh) - Meteorite landings
